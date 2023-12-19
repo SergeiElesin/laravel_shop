@@ -1,0 +1,84 @@
+[2021-02-12 21:04:00] Текст ошибки: Страница не найдена | Файл: C:\OpenServer\domains\myshop.loc\public\index.php | Строка: 10
+======================
+[2021-02-12 21:12:49] Текст ошибки: Страница не найдена | Файл: C:\OpenServer\domains\myshop.loc\public\index.php | Строка: 10
+======================
+[2021-02-12 21:12:51] Текст ошибки: Страница не найдена | Файл: C:\OpenServer\domains\myshop.loc\public\index.php | Строка: 10
+======================
+[2021-02-12 21:13:09] Текст ошибки: Страница не найдена | Файл: C:\OpenServer\domains\myshop.loc\public\index.php | Строка: 10
+======================
+[2021-02-12 21:13:19] Текст ошибки: Страница не найдена | Файл: C:\OpenServer\domains\myshop.loc\public\index.php | Строка: 10
+======================
+[2021-02-12 21:14:06] Текст ошибки: Страница не найдена | Файл: C:\OpenServer\domains\myshop.loc\public\index.php | Строка: 10
+======================
+[2021-02-12 21:19:51] Текст ошибки: Страница не найдена | Файл: C:\OpenServer\domains\myshop.loc\public\index.php | Строка: 10
+======================
+[2021-04-09 16:02:40] Текст ошибки: Страница не найдена | Файл: C:\OpenServer\domains\myshop.loc\public\index.php | Строка: 10
+======================
+[2021-04-09 16:02:54] Текст ошибки: Страница не найдена | Файл: C:\OpenServer\domains\myshop.loc\public\index.php | Строка: 10
+======================
+[2021-04-15 13:15:55] Текст ошибки: Class 'myshop\Router' not found | Файл: C:\OpenServer\domains\myshop.loc\public\index.php | Строка: 8
+======================
+[2021-04-15 13:32:35] Текст ошибки: Class 'myshop\Router' not found | Файл: C:\OpenServer\domains\myshop.loc\public\index.php | Строка: 11
+======================
+[2021-04-15 13:37:04] Текст ошибки: Class 'myshop\Router' not found | Файл: C:\OpenServer\domains\myshop.loc\public\index.php | Строка: 11
+======================
+[2021-04-15 13:38:25] Текст ошибки: Class 'myshop\Router' not found | Файл: C:\OpenServer\domains\myshop.loc\public\index.php | Строка: 12
+======================
+[2021-04-15 13:39:27] Текст ошибки: Class 'Router' not found | Файл: C:\OpenServer\domains\myshop.loc\public\index.php | Строка: 12
+======================
+[2021-04-15 13:39:41] Текст ошибки: Class 'myshop\Router' not found | Файл: C:\OpenServer\domains\myshop.loc\public\index.php | Строка: 12
+======================
+[2021-04-15 13:55:25] Текст ошибки: Class 'myshop\Router' not found | Файл: C:\OpenServer\domains\myshop.loc\public\index.php | Строка: 11
+======================
+[2021-04-21 12:49:23] Текст ошибки: Страница не найдена | Файл: C:\OpenServer\domains\myshop.loc\vendor\myshop\core\Router.php | Строка: 26
+======================
+[2021-04-21 12:50:07] Текст ошибки: Страница не найдена | Файл: C:\OpenServer\domains\myshop.loc\vendor\myshop\core\Router.php | Строка: 26
+======================
+[2021-04-21 13:33:22] Текст ошибки: Контроллер app\controllers\PageController не найден | Файл: C:\OpenServer\domains\myshop.loc\vendor\myshop\core\Router.php | Строка: 34
+======================
+[2021-04-21 13:34:21] Текст ошибки: Контроллер app\controllers\PageController не найден | Файл: C:\OpenServer\domains\myshop.loc\vendor\myshop\core\Router.php | Строка: 34
+======================
+[2021-04-21 13:34:30] Текст ошибки: Метод app\controllers\MainController::indexAction не найден | Файл: C:\OpenServer\domains\myshop.loc\vendor\myshop\core\Router.php | Строка: 31
+======================
+[2021-04-21 17:55:53] Текст ошибки: syntax error, unexpected '}' | Файл: C:\OpenServer\domains\myshop.loc\vendor\myshop\core\base\View.php | Строка: 34
+======================
+[2021-04-21 17:57:47] Текст ошибки: syntax error, unexpected '}' | Файл: C:\OpenServer\domains\myshop.loc\vendor\myshop\core\base\View.php | Строка: 34
+======================
+[2021-04-21 17:58:18] Текст ошибки: syntax error, unexpected '}' | Файл: C:\OpenServer\domains\myshop.loc\vendor\myshop\core\base\View.php | Строка: 34
+======================
+[2021-04-21 17:58:30] Текст ошибки: syntax error, unexpected '}' | Файл: C:\OpenServer\domains\myshop.loc\vendor\myshop\core\base\View.php | Строка: 34
+======================
+[2021-04-27 12:22:26] Текст ошибки: Не найден вид C:\OpenServer\domains\myshop.loc/app/views/Page/view.php | Файл: C:\OpenServer\domains\myshop.loc\vendor\myshop\core\base\View.php | Строка: 40
+======================
+[2021-04-27 15:36:38] Текст ошибки: Не найден вид C:\OpenServer\domains\myshop.loc/app/views//.php | Файл: C:\OpenServer\domains\myshop.loc\vendor\myshop\core\base\View.php | Строка: 40
+======================
+[2021-04-27 16:51:13] Текст ошибки: syntax error, unexpected 'endforeach' (T_ENDFOREACH), expecting end of file | Файл: C:\OpenServer\domains\myshop.loc\app\views\Main\index.php | Строка: 6
+======================
+[2021-04-28 13:20:00] Текст ошибки: Страница не найдена | Файл: C:\OpenServer\domains\myshop.loc\vendor\myshop\core\Router.php | Строка: 39
+======================
+[2021-04-28 13:24:14] Текст ошибки: Страница не найдена | Файл: C:\OpenServer\domains\myshop.loc\vendor\myshop\core\Router.php | Строка: 39
+======================
+[2021-05-04 15:54:09] Текст ошибки: Контроллер app\controllers\CartController не найден | Файл: C:\OpenServer\domains\myshop.loc\vendor\myshop\core\Router.php | Строка: 36
+======================
+[2021-05-13 13:32:13] Текст ошибки: Object of class app\widgets\currency\Currency could not be converted to string | Файл: C:\OpenServer\domains\myshop.loc\app\views\layouts\watches.php | Строка: 33
+======================
+[2021-05-13 13:34:45] Текст ошибки: Object of class app\widgets\currency\Currency could not be converted to string | Файл: C:\OpenServer\domains\myshop.loc\app\views\layouts\watches.php | Строка: 33
+======================
+[2021-05-13 13:46:26] Текст ошибки: Object of class app\widgets\currency\Currency could not be converted to string | Файл: C:\OpenServer\domains\myshop.loc\app\views\layouts\watches.php | Строка: 33
+======================
+[2021-05-13 13:46:32] Текст ошибки: Object of class app\widgets\currency\Currency could not be converted to string | Файл: C:\OpenServer\domains\myshop.loc\app\views\layouts\watches.php | Строка: 33
+======================
+[2021-05-13 13:46:33] Текст ошибки: Object of class app\widgets\currency\Currency could not be converted to string | Файл: C:\OpenServer\domains\myshop.loc\app\views\layouts\watches.php | Строка: 33
+======================
+[2021-05-13 14:22:49] Текст ошибки: syntax error, unexpected ';', expecting '{' | Файл: C:\OpenServer\domains\myshop.loc\app\controllers\CurrencyController.php | Строка: 5
+======================
+[2021-05-14 19:38:04] Текст ошибки: syntax error, unexpected ';' | Файл: C:\OpenServer\domains\myshop.loc\app\widgets\menu\Menu.php | Строка: 61
+======================
+[2021-05-14 23:01:43] Текст ошибки: Страница не найдена | Файл: C:\OpenServer\domains\myshop.loc\vendor\myshop\core\Router.php | Строка: 39
+======================
+[2021-05-14 23:01:47] Текст ошибки: Страница не найдена | Файл: C:\OpenServer\domains\myshop.loc\vendor\myshop\core\Router.php | Строка: 39
+======================
+[2021-05-14 23:01:51] Текст ошибки: Страница не найдена | Файл: C:\OpenServer\domains\myshop.loc\vendor\myshop\core\Router.php | Строка: 39
+======================
+[2021-05-14 23:15:55] Текст ошибки: Страница не найдена | Файл: C:\OpenServer\domains\myshop.loc\app\controllers\ProductController.php | Строка: 11
+======================
